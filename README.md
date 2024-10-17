@@ -14,6 +14,9 @@ I love programming and using software and automation to simplify life and free u
 [![Other Tools](https://skillicons.dev/icons?i=atom,blender,codepen,discord,git,windows,wordpress)](https://skillicons.dev)
 
 
+## My GitHub Stats
+[![René's GitHub stats](https://github-readme-stats.vercel.app/api?username=rfmarves&show_icons=true&theme=algolia)](https://github.com/rfmarves/github-readme-stats)
+
 <!--
 **rfmarves/rfmarves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
